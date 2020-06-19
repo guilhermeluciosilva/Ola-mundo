@@ -1,5 +1,5 @@
 # Olá, Mundo
-## Nessa pasta serão trabalhados projetos iniciais, quando eles tiverem um corpo mais sólido irei realocar para suas pastas definitivas.
+## Nessa pasta serão trabalhados projetos iniciais, quando eles tiverem um corpo mais sólido irei realoca-los para suas pastas definitivas.
 *Primeiro* repositório do curso de **Git e GitHub**
 
 ~~Repositório criado durante a aula ao vivo do curso em vídeo.~~
